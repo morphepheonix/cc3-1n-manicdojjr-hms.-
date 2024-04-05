@@ -245,9 +245,7 @@ namespace HotelReservationSystem
             {
                 reservation.DisplayDetails();
             }
-            Console
-
-.WriteLine("- - - - - - - - - -");
+            Console.WriteLine("- - - - - - - - - -");
         }
 
         public void DisplayAllReservations(Guest guest)
